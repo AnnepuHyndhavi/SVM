@@ -15,6 +15,8 @@ SVM is more effective in high dimensional spaces. SVM is effective in cases wher
 
 They can be applied to both linear and non linear problems.
 
+In simple terms, SVM is a supervised learning method that looks at data and sorts it into one of two categories. An SVM outputs a map of the sorted data with the margins between the two as far apart as possible.
+
 <p align="center"> <img src= "https://static.javatpoint.com/tutorial/machine-learning/images/support-vector-machine-algorithm5.png" width=250">
 
 
